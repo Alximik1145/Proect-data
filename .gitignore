@@ -3,3 +3,4 @@ logs/
 files/
 plugins/
 _pycache_/
+.env
